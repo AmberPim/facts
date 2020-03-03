@@ -1,0 +1,13 @@
+{
+    "name": "funsies/facts",
+    "description": "This is also a test package",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Funsies\\Facts\\": "src/"
+        }
+    },
+    "require": {}
+}
